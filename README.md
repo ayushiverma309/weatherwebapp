@@ -3,6 +3,9 @@
 
 A simple and elegant weather web application built using **HTML**, **CSS**, and **JavaScript**. This app fetches real-time weather data for any city using the **OpenWeatherMap API**, and dynamically updates the UI with weather information, icons, and background images based on the weather condition.
 
+Web link
+https://sachinprajapati8604.github.io/Weather_webApp/
+
 
 
 ## 🚀 Features
